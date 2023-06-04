@@ -45,7 +45,7 @@ permissions:
 
 jobs:
   deploy:
-    name: Deploy
+    name: Deployf
     runs-on: ubuntu-latest
     environment: production
 
